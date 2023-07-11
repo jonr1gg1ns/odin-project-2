@@ -1,4 +1,37 @@
 * {
-    background-color: black;
-    color: white;
+    background-color: lightskyblue;
+    color: black;
+}
+.sr {
+    padding: 25px;
+    border: 5px solid black;
+    width: 10%;
+    background-color: lightgrey
+}
+.stewie {
+    padding: 25px;
+    border: 5px solid black;
+    width: 25%;
+    background-color: lightgrey
+}
+.sto {
+    border: 5px solid black;
+    width: 10%;
+    background-color: lightgrey;
+    padding: 25px;
+}
+li {
+    background-color: lightgrey;
+}
+ol {
+    border: 5px solid black;
+    width: 55%;
+    background-color: lightgrey;
+    padding: 25px;
+}
+h4 {
+    border: 5px solid black;
+    width: 10%;
+    background-color: lightgrey;
+    padding: 25px;
 }
