@@ -1,1 +1,1 @@
-# odin-project-2
+This is a project to display what I have learned so far through The Odin Project. I will be using HTML to create a website with links to different recipes. I will also add CSS after I am completed with the recipes. I will also add CSS after I am completed with the recipes.
